@@ -1,8 +1,9 @@
-## Olá, eu sou o Kétillen Naline 👋
+## Olá, eu sou  Kétillen Naline 👋
 
 - 🔭 Desenvolvedora Full Stack
-- 📚 "Através do estudo contínuo, busco não apenas aprimorar minhas habilidades, mas também expandir os horizontes do meu conhecimento e aprofundar minha compreensão do mundo."
 - 💻 Competências: Html, Css, JavaScript, PHP e Python
+- 📚 "Através do estudo contínuo, busco não apenas aprimorar minhas habilidades, mas também expandir os horizontes do meu conhecimento e aprofundar minha compreensão do mundo."
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalineSouza&show_icons=true&bg_color=00000000)
 
